@@ -5,3 +5,6 @@ print("Git")# Aprendiendo a usar Git.
 for i in range(3):
     print("Hola")
 
+for i in range(3):
+    print("Hola")
+
